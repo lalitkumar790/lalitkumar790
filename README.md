@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/lalit-exe-hero.svg" alt="LALIT.EXE — software, AI and robotics engineering workspace" width="100%">
+<img src="assets/lalit-exe-hero.gif" alt="LALIT.EXE — animated pixel-art portrait and robotics engineering workspace" width="100%">
 
 # `LALIT.EXE`
 

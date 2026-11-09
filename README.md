@@ -8,7 +8,7 @@
 
 **Turning ideas into intelligent systems that work in the real world.**
 
-[GitHub](https://github.com/lalitkumar790) · [Email](mailto:lalitkumar790@gmail.com)
+[GitHub](https://github.com/lalitkumar790) · [Email](mailto:lalitkumar2001@gmail.com)
 
 </div>
 

@@ -104,7 +104,7 @@ Explainable candidate ranking and job-description matching experiments.
 Open to software engineering, applied AI, platform, and robotics-software opportunities.
 
 - **GitHub:** [@lalitkumar790](https://github.com/lalitkumar790)
-- **Email:** [lalitkumar790@gmail.com](mailto:lalitkumar790@gmail.com)
+- **Email:** [lalitkumar790@gmail.com](mailto:lalitkumar2001@gmail.com)
 
 <div align="center">
 
